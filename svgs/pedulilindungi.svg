@@ -8,7 +8,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="mobile_legends.svg"
+   sodipodi:docname="pedulilindungi.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -817,63 +817,7 @@
        x="0"
        y="0" />
     <pattern
-       id="EMFhbasepattern-08"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-8140"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-25"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-80"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-29"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-855"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
        id="EMFhbasepattern-19"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-704"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-103"
        patternUnits="userSpaceOnUse"
        width="6"
        height="6"
@@ -887,9 +831,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1067708"
-     inkscape:cx="27.292955"
-     inkscape:cy="110.35847"
+     inkscape:zoom="1.7844059"
+     inkscape:cx="45.673465"
+     inkscape:cy="135.33916"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -916,9 +860,9 @@
      id="layer2"
      inkscape:label="Layer 2">
     <path
-       style="fill:none;stroke:#000000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 15.697129,15.697131 V 33.162964 L 25.276673,42.742506 35.59618,42.8625 M 32.196342,7.9375 H 42.862501 V 18.603658 Z M 7.9374999,32.196343 V 42.8625 H 18.603658 Z M 15.203819,7.9375 h 10.192848 l 9.706204,9.699539 V 35.10287 l 7.75963,7.75963 V 25.403333 M 34.129584,16.670417 25.396667,25.403333 7.9374999,7.9375 v 17.465833"
-       id="path49684"
-       sodipodi:nodetypes="cccccccccccccccccccccc" />
+       id="path40791-8"
+       style="fill:none;stroke:#000000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round"
+       transform="scale(-1,1)"
+       d="m -30.774325,9.7171202 a 3.8793197,3.8793197 0 0 1 -3.87932,3.8793198 3.8793197,3.8793197 0 0 1 -3.879319,-3.8793198 3.8793197,3.8793197 0 0 1 3.879319,-3.8793197 3.8793197,3.8793197 0 0 1 3.87932,3.8793197 z m 2.642339,11.1230328 c -6.986561,-7.019451 -18.925282,4.029684 -10.172005,11.413104 l 13.089763,12.713004 4.79155,-4.653635 m -3.93496,-15.858755 c 2.141475,-7.487416 13.33068,-7.019451 14.8029426,0.597952 0.428294,2.105835 -0.187373,4.601639 -1.6328736,6.135519 -1.954095,1.871853 -3.881423,3.769702 -5.835519,5.641558 l -6.049666,-5.901537 c -2.462693,-3.171753 -1.284884,-5.849543 -1.284884,-6.473492 z m 4.331962,-14.7327521 a 3.8793197,3.8793197 0 0 0 3.879319,3.8793201 3.8793197,3.8793197 0 0 0 3.87932,-3.8793201 3.8793197,3.8793197 0 0 0 -3.87932,-3.8793196 3.8793197,3.8793197 0 0 0 -3.879319,3.8793196 z" />
   </g>
 </svg>

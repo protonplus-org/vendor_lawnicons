@@ -8,7 +8,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="mobile_legends.svg"
+   sodipodi:docname="drm_info.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -718,167 +718,6 @@
        height="6"
        x="0"
        y="0" />
-    <pattern
-       id="EMFhbasepattern-127"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-843"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-452"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-631"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-724"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-49"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-05"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-22"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-841"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-226"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-398"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-379"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-42"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-213"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-08"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-8140"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-25"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-80"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-29"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-855"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-19"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-704"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
-    <pattern
-       id="EMFhbasepattern-103"
-       patternUnits="userSpaceOnUse"
-       width="6"
-       height="6"
-       x="0"
-       y="0" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -887,9 +726,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1067708"
-     inkscape:cx="27.292955"
-     inkscape:cy="110.35847"
+     inkscape:zoom="3.5688118"
+     inkscape:cx="75.51533"
+     inkscape:cy="99.052576"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -916,9 +755,8 @@
      id="layer2"
      inkscape:label="Layer 2">
     <path
-       style="fill:none;stroke:#000000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 15.697129,15.697131 V 33.162964 L 25.276673,42.742506 35.59618,42.8625 M 32.196342,7.9375 H 42.862501 V 18.603658 Z M 7.9374999,32.196343 V 42.8625 H 18.603658 Z M 15.203819,7.9375 h 10.192848 l 9.706204,9.699539 V 35.10287 l 7.75963,7.75963 V 25.403333 M 34.129584,16.670417 25.396667,25.403333 7.9374999,7.9375 v 17.465833"
-       id="path49684"
-       sodipodi:nodetypes="cccccccccccccccccccccc" />
+       style="fill:none;stroke:#000000;stroke-width:3.175;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 13.444515,17.789894 h 23.91097 c 2.198428,0 3.976928,1.733948 3.976928,3.877301 v 19.410588 c 0,2.143355 -1.7785,3.901385 -3.976928,3.901385 h -23.91097 c -2.173727,0 -3.9769278,-1.75803 -3.9769278,-3.901385 V 21.667195 c 0,-2.143353 1.8032008,-3.877301 3.9769278,-3.877301 z m 3.68051,0 V 13.88851 c 0,-4.4552843 3.705212,-8.0676773 8.274975,-8.0676773 4.56976,0 8.274974,3.612393 8.274974,8.0676773 v 3.901384 M 25.4,27.49519 c 2.198425,0 4.001629,1.733948 4.001629,3.8773 0,2.143353 -1.803204,3.901385 -4.001629,3.901385 -2.198426,0 -3.976928,-1.758032 -3.976928,-3.901385 0,-2.143352 1.778502,-3.8773 3.976928,-3.8773 z"
+       id="path36768" />
   </g>
 </svg>

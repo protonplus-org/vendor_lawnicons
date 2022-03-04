@@ -8,7 +8,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="mobile_legends.svg"
+   sodipodi:docname="knife_hit.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -866,14 +866,14 @@
        x="0"
        y="0" />
     <pattern
-       id="EMFhbasepattern-704"
+       id="EMFhbasepattern-251"
        patternUnits="userSpaceOnUse"
        width="6"
        height="6"
        x="0"
        y="0" />
     <pattern
-       id="EMFhbasepattern-103"
+       id="EMFhbasepattern-67"
        patternUnits="userSpaceOnUse"
        width="6"
        height="6"
@@ -887,9 +887,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1067708"
-     inkscape:cx="27.292955"
-     inkscape:cy="110.35847"
+     inkscape:zoom="1.7844059"
+     inkscape:cx="84.341797"
+     inkscape:cy="102.83535"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -916,9 +916,8 @@
      id="layer2"
      inkscape:label="Layer 2">
     <path
-       style="fill:none;stroke:#000000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 15.697129,15.697131 V 33.162964 L 25.276673,42.742506 35.59618,42.8625 M 32.196342,7.9375 H 42.862501 V 18.603658 Z M 7.9374999,32.196343 V 42.8625 H 18.603658 Z M 15.203819,7.9375 h 10.192848 l 9.706204,9.699539 V 35.10287 l 7.75963,7.75963 V 25.403333 M 34.129584,16.670417 25.396667,25.403333 7.9374999,7.9375 v 17.465833"
-       id="path49684"
-       sodipodi:nodetypes="cccccccccccccccccccccc" />
+       style="fill:none;stroke:#000000;stroke-width:3.171px;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 35.965713,20.861842 -14.530891,14.53089 m -6.030369,-6.020369 14.540891,-14.53089 m -6.5304,-0.310019 3.11019,-3.11019 12.860789,12.850787 -3.120191,3.120191 M 38.54587,8.0210557 30.835399,15.731528 m 4.240258,4.230259 7.710474,-7.710473 M 5.8138658,22.281928 c 4.5202762,2.760169 8.7905382,6.090373 12.7007772,10.010615 3.91024,3.910238 7.240444,8.180498 10.010613,12.700775 m 9.12056,-37.8723179 6.03037,6.0303699 1.30008,-1.290079 -6.030371,-6.0303696 z"
+       id="path1295" />
   </g>
 </svg>
